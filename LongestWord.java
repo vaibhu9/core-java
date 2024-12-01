@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class LongestWord {
     final String ALPHABET = "abcdefghijklmnopqrstuvwxyz";
     final String ALPHABET_UPPER = ALPHABET.toUpperCase();
